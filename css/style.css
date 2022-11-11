@@ -18,3 +18,18 @@ section {
     }
 
 }
+@media (min-width: 768px) {
+    .navbar-collapse {
+        margin-top: 8px;
+        border-top: 1px solid #dee2e6!important;
+        max-width: 1000px;
+    }
+    .footer-mb {
+        margin-bottom: 60px;
+        } 
+        .footer-mb p{
+            font-size: 12px;
+            margin-top: 10px;
+            text-align: center;
+        }
+}
